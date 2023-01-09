@@ -1,0 +1,331 @@
+.header .head{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    font-family: 'Work Sans';
+    font-style: normal;
+    display: flex;
+    }
+.header-description{
+position: absolute;
+width: 494px;
+height: 78px;
+left: 876px;
+top: 468px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+text-align: left;
+margin-left: 150px;
+ }
+ nav {
+    position: absolute;
+    width: 1600px;
+    height: 808px;
+    background-image: url(../images/images/banner/banner1.png);
+}
+.btn-primary{
+position: absolute;
+width: 160px;
+height: 64px;
+left: 1210px;
+top: 578px;
+background: #F15B22;
+border-radius: 5px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+color: #FFFFFF;
+position: absolute;
+
+}
+.banner-title{
+position: absolute;
+width: 288px;
+height: 94px;
+left: 862px;
+top: 1178px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+ margin: cover;
+}
+.banner-description{
+position: absolute;
+width: 416px;
+height: 104px;
+left: 862px;
+top: 1296px;
+font-family: 'Work Sans';
+font-style: normal;
+font-size: 20px;
+line-height: 26px;
+color: #444343;
+}
+.sub-description{
+position: absolute;
+width: 315px;
+height: 26px;
+left: 896px;
+top: 1416px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+color: #444343;
+justify-content: space-between;
+
+
+}
+.banner img{
+    position: absolute;
+width: 569px;
+height: 723.3px;
+left: 206px;
+top: 939px;
+display: flex;
+}
+.plans .plan-title{
+width: 179px;
+height: 47px;
+left: 711px;
+top: 1792.3px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+
+}
+.plan-chart .plan-1 img{
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 330px;
+    top: 1901px;  
+
+}
+.plan-chart .plan-1 .info{
+    position: absolute;
+width: 270px;
+height: 35px;
+left: 230px;
+top: 2012.26px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+color: #151414;
+}
+.plan-chart .plan-1 .description{
+position: absolute;
+width: 177px;
+height: 29px;
+left: 277px;
+top: 2063.26px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+color: #737272;
+
+}
+.plan-chart .plan-2 img{
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 631px;
+    top: 1895px;
+
+}
+.plan-chart .plan-2 .info{
+    position: absolute;
+    width: 156px;
+    height: 35px;
+    left: 599px;
+    top: 2006.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+    
+}
+.plan-chart .plan-2 .description{
+    position: absolute;
+    width: 181px;
+    height: 29px;
+    left: 586px;
+    top: 2057.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+    
+}
+.plan-chart .plan-3 img{
+    position: absolute;
+    width: 93px;
+    height: 93px;
+    left: 916px;
+    top: 1889.3px;
+}
+
+.plan-chart .plan-3 .info{
+position: absolute;
+width: 218px;
+height: 35px;
+left: 853px;
+top: 2006.3px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+color: #151414;
+
+
+}
+.plan-chart .plan-3 .description{
+    position: absolute;
+    width: 164px;
+    height: 29px;
+    left: 880px;
+    top: 2057.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+    
+}
+.plan-chart .plan-4 img{
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 1218px;
+    top: 1889.3px;
+
+
+}
+.plan-chart .plan-4 .info{
+position: absolute;
+width: 174px;
+height: 35px;
+left: 1177px;
+top: 2006.3px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+color: #151414;
+
+
+}
+.plan-chart .plan-4 .description{
+position: absolute;
+width: 214px;
+height: 29px;
+left: 1157px;
+top: 2057.3px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+color: #737272;
+}
+ .message{
+    position: absolute;
+    width: 459px;
+    height: 182px;
+    left: 294px;
+    top: 2275.3px;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2216.3px;
+    background-image: url(../images/images/watch.png),url(../images/images/gradient3.png);
+    /* background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%); */
+    border-radius: 8px;
+ }
+    .message-title{
+        width: 459px;
+    height: 94px;
+    left: 294px;
+    top: 2275.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+    margin: 59px 617px 147px 64px;
+    
+    }
+    .btn-secondary{
+        width: 160px;
+        height: 64px;
+        left: 294px;
+        top: 2393.3px;
+        margin: 59px 617px 147px 64px;
+        border-radius: 5px;
+    }
+
+    .future{
+        position: absolute;
+        width: 1600px;
+        height: 577px;
+        left: 0px;
+        top: 2646.3px;
+    }
+ 
+    
+    
+    
+    .future .future-title{
+        position: absolute;
+        width: 148px;
+        height: 53px;
+        left: 230px;
+        top: 2776.3px;
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 53px;
+        /* color: #F8F8F8; */
+        display: flex;
+    }
+    
