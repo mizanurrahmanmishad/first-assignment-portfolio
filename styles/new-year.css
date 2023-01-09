@@ -30,7 +30,7 @@ margin-left: 150px;
     position: absolute;
     width: 1600px;
     height: 808px;
-    background-image: url(../images/images/banner/banner1.png);
+    background-image: url(../images/banner/banner1.png);
 }
 .btn-primary{
 position: absolute;
@@ -276,7 +276,7 @@ color: #737272;
     height: 300px;
     left: 230px;
     top: 2216.3px;
-    background-image: url(../images/images/watch.png),url(../images/images/gradient3.png);
+    background-image: url(../images/watch.png),url(../images/gradient3.png)
     /* background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%); */
     border-radius: 8px;
  }
